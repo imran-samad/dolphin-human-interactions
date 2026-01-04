@@ -1,4 +1,4 @@
-# Data and code for replicating the results from Samad, I., Patil, H., Cantor M., Farine D. R., Sutaria, D. & Shanker, K. (in revision). Human activities drive novel behaviours and transitions in dolphins. Marine Ecology Progress Series. https://doi.org/10.1101/2025.07.10.663819
+## Data and code for replicating the results from Samad, I., Patil, H., Cantor M., Farine D. R., Sutaria, D. & Shanker, K. (in revision). Human activities drive novel behaviours and transitions in dolphins. Marine Ecology Progress Series. https://doi.org/10.1101/2025.07.10.663819
 
 ## Project overview
 
@@ -154,3 +154,4 @@ Each row corresponds to a valid modelling observation after filtering, scaling, 
 * Inference on how tourism and fisheries influence dolphin behaviour and group structure
 
 ---
+
